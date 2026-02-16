@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#291942",
+            "lang-select-color": "#222829",
+            "bg-light": "#291942",
+            "welcome-bonus-bg": "#291942",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#1B112D",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#6136A3",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#00FF95",
+            "yellow": "#6136A3",
+            "yellow-button": "#00FF95",
+            "button-text": "#ffffff",
+            "main-button-text": "#1B112D",
+            "border-color": "#efefdc",
+            "casino-cards": "#291942",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#444446",
+            "providers-back": "#291942",
+            "faq-label": "#291942",
+            "bg-footer": "#291942",
+            "copyright": "#e7e7d5",
+            "starColor": "#6136A3",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3113"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3115",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "NaoBet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3116",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "NaoBet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "NaoBet",
+                    "title": "NaoBet Casino: Live Games, Pokies & Sportsbook — 120% to A$750 + 240 Free Spins",
+                    "description": "Play slots and pokies, enjoy live casino action, and bet on sports in one account. Claim a 120% welcome bonus up to A$750 plus 240 free spins, complete challenges, and redeem coins for rewards worth up to A$1,500. Fast start, flexible limits, and 24\/7 support.",
+                    "canonical": "naobet-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3117",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "naobet-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3118"
+                },
+                "hero": {
+                    "title": "NaoBet — Online Casino & Sports Betting with Bonuses up to A$750",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3119",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3120",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Thousands of slots and pokies to enjoy",
+                        "Live casino with dealers and game shows",
+                        "High betting limits for bigger wins",
+                        "120% welcome bonus up to A$750",
+                        "Plus 240 free spins to start",
+                        "Sports betting and casino in one account",
+                        "Challenge rewards: coins worth up to A$1,500"
+                    ],
+                    "advantagesAfterText": "We built an all-in-one place to play and bet with ease—fast slots, immersive live games, and a full sportsbook under one login. Bonuses, challenges, and reward features keep every session exciting, while flexible limits suit both casual players and high rollers.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Naobet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3121",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Naobet App",
+                    "mobileGooglePlayImageTitle": "Naobet App",
+                    "mobileIosImageTitle": "Naobet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Naobet",
+                        "description1": "We combine casino play and sports betting under one account so you can switch instantly between games and events. Our challenge-reward system lets you turn coins into rewards worth up to A$1,500 and boost your playing power.\n",
+                        "items": [
+                            "120% bonus to A$750.",
+                            "240 free spins included.",
+                            "Bets up to A$40,000."
+                        ],
+                        "description2": "We are an all-in-one gaming and sports betting ecosystem designed so you can choose the right kind of entertainment for your mood. Getting started is quick, and our welcome offers help you jump in with extra value from the first session. Inside our lobby you’ll find a huge range of slots and pokies, alongside timeless table classics that always stay in demand. \n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3122",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "If you love the real venue vibe, our live casino brings it to your screen with dealers, studio streams, fast rounds, and game-show style titles. For sports fans, we deliver both pre-match markets and live betting formats so you can follow the action in real time and place your picks smoothly. We keep adding fresh games and new events so every visit feels current and exciting. Our welcome package is built to expand your playing power and give you extra spins right away. From there, ongoing promotions keep things moving throughout the week with themed offers, missions, and activity-based rewards. We also run a loyalty and VIP experience that unlocks stronger benefits as your play grows. A standout feature is our challenge system: complete tasks, earn coins, and swap them for rewards in our shop. This makes each day feel more rewarding and adds variety even for shorter play sessions. We focus heavily on usability with clear navigation, quick access to favourites, and well-organised categories. Payments are set up to keep deposits and withdrawals straightforward, with easy-to-track transaction status inside your account. Security and privacy are core priorities, so we use modern protection measures across the platform. Whenever you need assistance, our support team is ready to help with bonuses, games, and account settings. We aim to keep you in control, playing at your own pace, and enjoying a smooth experience. In the end, you get more than a game list—you get a full platform packed with bonuses, entertainment, and reward mechanics that can elevate your results."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Naobet: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules of access & responsible play: play with confidence and comfort\n<\/h3>\n\n<p>\nAccess to our casino is strictly for adults, and we verify age as part of standard account procedures. Your profile should be created with real details so you can use payments and withdrawals securely. We ask everyone to follow fair-play standards and keep one account per person to maintain a level playing field for bonuses and results. Protect your login details carefully—passwords and verification codes must stay private. Any attempt to abuse bonuses or use unfair methods breaks the rules and may lead to account restrictions. We actively support responsible play and encourage a mindful approach to staking and time spent on the platform. If you ever feel you’re losing control, use our self-limitation and break tools. We recommend planning your budget in advance and treating play as entertainment, not income. When joining promotions, follow the terms to ensure smooth bonus crediting and wagering progress. For your protection, support may request extra details when needed. Our goal is a safe, orderly, and transparent environment where you can enjoy games responsibly.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \n18+ only: games and betting are for adults.\n\n<\/li>\n            <li>• \nOne account: one user — one profile for fair bonuses.\n\n<\/li>\n            <li>• \nAccurate details: up-to-date info for verification and payouts.\n\n<\/li>\n            <li>• \nPromo compliance: bonuses are credited when terms are met.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSharing your account or letting others use it.\n\n<\/li>\n            <li>• \nMultiple accounts or any method to bypass limits.\n\n<\/li>\n            <li>• \nBonus abuse or attempts to gain unfair advantage.\n\n<\/li>\n            <li>• \nUsing someone else’s payment method without proper rights.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: set deposit and stake limits to control spend.\n\n<\/li>\n            <li>• \nBreaks\/self-exclusion: pause or block access when needed.\n\n<\/li>\n            <li>• \nTime control: use reminders to avoid overplaying.\n\n<\/li>\n            <li>• \nMindset: play for fun, at a comfortable pace.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSecurity, licensing & privacy: how we protect your data\n\n<\/h3>\n\n<p>\nWe operate under international licensing frameworks and follow standards designed to support transparency in gameplay and proper handling of financial operations. Our licensing approach includes requirements around player identification, payment processing, and responsible gambling practices. We support verification procedures to protect players and reduce unauthorised activity. This builds trust in how the platform runs and keeps your experience predictable and smooth.\n\n<\/p>\n<br>\n\n\n<p>\nData protection starts with how information travels between your device and our servers. We use modern encryption protocols for data in transit to prevent third-party access. This covers login sessions, payment flows, and any sensitive profile information. We also apply additional safeguards around sign-in and action confirmation to lower account-takeover risk. The result is strong protection from registration through to withdrawals.\n\n<\/p>\n<br>\n<p>\nWe focus heavily on payment security and transaction integrity. Payment operations run through protected channels, and monitoring systems help detect suspicious behaviour and prevent processing issues. We support standard financial compliance checks to keep transactions stable and secure. Where available, you’ll see clear transaction statuses inside your account, so you always know where your deposit or payout stands.\n\n<\/p>\n<br>\n<p>\nPrivacy is built around clear rules for how personal data is used. We collect only what’s needed to create your account, deliver services, process payments, and meet security obligations. Access to data is restricted and granted only to systems and staff who need it for service delivery. We don’t use your information beyond stated purposes, and we keep communication settings transparent. You stay in control of key profile options and can manage what notifications you receive.\n\n<\/p>\n<br>\n<p>\nWe also protect the gaming layer and the fairness of outcomes. Our games rely on technologies that support consistent result generation and stable performance. We work to ensure content runs smoothly across devices and maintains reliable quality in live formats. We maintain technical logs that help resolve edge cases quickly and preserve accurate account activity history.\n\n<\/p>\n<br>\n<p>\nFinally, we reinforce security with support and self-control tools. If you ever spot suspicious activity, our team helps secure your account and restore access quickly. We encourage unique passwords, stronger sign-in confirmation where available, and careful handling of emails and messages. This layered approach lets you focus on play and betting with confidence in your privacy and security.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer support: fast answers and 24\/7 help\n<\/h3>\n\n<p>\nOur support is built to help you exactly when you need it—during play, betting, or while managing bonuses. We respond quickly and clearly, assisting with registration, verification, and account settings. If you have questions about the welcome bonus, free spins, or promotions, we’ll guide you through activation and completion of requirements. For payments, we explain transaction statuses, processing timeframes, and the steps needed for a smooth withdrawal. When you’re in live modes or following sports events, speed matters, so we prioritise real-time channels. Our team is trained to handle both common and unusual cases to keep your experience comfortable. We also help with technical topics like game loading, mobile performance, and access recovery. If needed, we’ll advise which verification documents work best and how to keep the process moving. Service quality matters to us, so we communicate politely, confidently, and with a solution-first mindset. Reach out anytime—we’re here.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: the fastest way to get help while playing or betting.\n\n<\/li>\n            <li>• \nEmail: ideal for documents, payments, and detailed questions.\n\n<\/li>\n            <li>• \nPhone: great for urgent cases and account clarifications.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse speed & service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically within minutes, with step-by-step guidance.\n\n<\/li>\n            <li>• \nEmail: usually within a few hours, with detailed explanations.\n\n<\/li>\n            <li>• \nPhone: rapid assistance and support through resolution.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMultilingual support: help in widely used interface languages.\n\n<\/li>\n            <li>• \nClear guidance: simple explanations for bonuses and steps.\n\n<\/li>\n            <li>• \nConsistent standards: strong service across every channel.\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Naobet",
+                        "description": "\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalty & VIP program: more value for your play\n<\/h3>\n<p>\nOur loyalty program is designed to reward you with extra benefits for both casino play and sports betting. The more you play and take part in events, the more personalised bonuses you unlock. You start at a base tier and move up, gaining stronger offers, bigger rewards, and special privileges. We reward consistency: daily missions and challenges help you earn coins and accelerate your status growth. Those coins can be exchanged in our rewards shop, turning activity into real value. For frequent players, our VIP experience adds priority support, tailored offers, and comfortable limits. Transparency is key—you can see your progress and understand what actions move you to the next level. Benefits are built for slots, live casino fans, and sports bettors alike. We also roll out seasonal perks to keep the program fresh and exciting. Participation begins automatically after registration, and advantages scale with your tier. In short, every session becomes a step toward stronger rewards and a more premium experience.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration & participation conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCreate an account: sign up and confirm your contact details.\n\n<\/li>\n            <li>• \nStay active: play casino games and\/or place sports bets to earn status points.\n\n<\/li>\n            <li>• \nComplete challenges: earn coins through missions and activity tasks.\n\n<\/li>\n            <li>• \nRedeem rewards: swap coins in the shop for bonuses and rewards up to A$1,500.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers & how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBronze: instant entry after sign-up; core offers and missions.\n\n<\/li>\n            <li>• \nSilver: earn activity points through play and bets; upgraded daily rewards.\n\n<\/li>\n            <li>• \nGold: consistent weekly activity; more personalised bonus deals.\n\n<\/li>\n            <li>• \nPlatinum: high activity volume; priority support and enhanced limits.\n\n<\/li>\n\t    <li>• \nVIP Elite: tailored status; top-tier perks and exclusive offers.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProgram perks & bonuses\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCoins for missions: earn through challenges, redeem in the rewards shop.\n\n<\/li>\n            <li>• \nExclusive deals: tier-based promos and personalised bonus offers.\n\n<\/li>\n            <li>• \nBoosted rewards: stronger bonus drops and special gifts.\n\n<\/li>\n            <li>• \nVIP service: priority support responses and personal care.\n\n<\/li>\n\t    <li>• \nImproved limits: more comfortable operating ranges as your tier grows.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses, special offers & game events: more reasons to play\n<\/h3>\n\n<p>\nWe deliver bonuses and events that amplify your entertainment and open more opportunities for exciting wins. Your journey begins with a welcome package that boosts your deposit and adds free spins so you can explore favourite slots and pokies right away. For sports fans, we also provide a dedicated starter offer that supports your bankroll from the first bets. Across the week, ongoing promotions keep value flowing beyond day one. If you enjoy competition, jump into tournaments and races where consistency and activity can be rewarded with prizes that keep you pushing forward. In slots, we run themed weeks and reward mechanics tied to spin streaks and featured titles. In the live casino, the focus is energy and atmosphere, and special offers help you return to your preferred tables and game-show formats more often. Our activities suit different play styles—from quick sessions to longer evening runs and high-roller mode. Another layer is mission-based activity that adds extra gifts and progress-feel alongside your play. New players get a smooth start: activate an offer, play, and track progress clearly in your account. For experienced players, flexibility matters—our limits let you choose stakes and strategy that match your approach. We also run seasonal campaigns with festive themes to keep the experience fresh. In the sportsbook, you’ll find extra momentum around major fixtures and tournament moments. And if you love variety, switch between slots, live games, and sports—our offers help you get more from every direction. We build bonuses as part of the full experience: more attempts, more momentum, and more chances for a standout result.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey bonuses & offers \n<\/h4>\n\n <ul>\n            <li>• \nCasino welcome bonus: 120% up to A$750 — boosts your starting bankroll and game options.\n\n<\/li>\n            <li>• \nSlot free spins: 240 Free Spins — extra chances to land big moments on featured slots.\n\n<\/li>\n            <li>• \nSports starter bonus: 100% up to A$150 — supports your first bets and market exploration.\n\n<\/li>\n            <li>• \nWeekly promos: themed bonuses and offers for selected games and categories.\n\n<\/li>\n\t    <li>• \nTournaments & races: competitive slot and event challenges with prize rewards.\n\n<\/li>\n\t    <li>• \nDrops & Wins mechanics: extra rewards during specific days and time windows.\n\n<\/li>\n\t    <li>• \nLive events: special offers for tables, dealers, and game-show titles.\n\n<\/li>\n\t    <li>• \nSeasonal campaigns: festive activities, themed missions, and limited-time bonuses.\n\n<\/li>\n\t    <li>• \nHigh-roller mode: high bet limits (up to A$40,000 in selected games) for premium action.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGames & betting: everything you need in one place\n<\/h3>\n\n<p>\nOur casino brings options for every pace and mood—from fast spins to thoughtful table strategy. We focus on variety so you can switch formats easily and keep every session fresh. Classic fans can enjoy roulette, blackjack, and other table favourites with different stake levels. If atmosphere matters, choose our live casino for real dealers, studio-quality streaming, and dynamic rounds on your screen. For extra energy, explore game-show titles where excitement, tempo, and instant outcomes take centre stage. Sports fans can head to our betting section for popular sports and event markets. You can pick pre-match lines or follow the action live and make decisions as the event unfolds. We keep navigation simple across categories so your favourite games are always a few clicks away. Mobile play stays smooth, making it easy to play and bet wherever you are. We refresh selections regularly so new releases and popular hits are always on hand. Most importantly, you stay in control—stakes, pace, and entertainment choice are always yours.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGame & betting categories\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots \/ Pokies: massive variety of themes, mechanics, and bonus rounds.\n\n<\/li>\n            <li>• \nJackpots: progressive formats built for big-moment hunters.\n\n<\/li>\n            <li>• \nTable Games: roulette, blackjack, baccarat, poker, and multiple variants.\n\n<\/li>\n            <li>• \nLive Casino: real dealers, real tables, interactive play, venue-style vibe.\n\n<\/li>\n\t    <li>• \nGame Shows: fast, colourful show games with energetic rounds.\n\n<\/li>\n\t    <li>• \nInstant\/Arcade: quick sessions for instant-result fans.\n\n<\/li>\n\t    <li>• \nSportsbook: key sports, events, and tournaments with pre-match and live options.\n\n<\/li>\n\t    <li>• \nVirtual\/Esports (where available): digital events and esports for extra variety.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetting limits table: minimum and maximum stakes\n<\/h3>\n\n<p> \nWe offer a wide staking range so you can play your way—from low-entry sessions to high-roller limits. This makes it easy to explore slots and live games, while still supporting premium action for bigger stakes. You set the pace and budget, and we provide flexible ranges across key categories to keep every session comfortable and in your control.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #6136A3;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$40,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$2<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Game Shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$9,200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (digital)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$40,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Standard slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>High-stakes slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Single bet<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$10,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawals & payout speed: fast, clear, and in your control\n<\/h3>\n\n<p>\nWe make withdrawals smooth and predictable: you can see your request status and understand exactly where it sits in processing. For safe and stable payouts, we use standard identity checks, and once verification is complete, future transactions tend to run even more smoothly. Speed depends on your method—e-wallets and crypto are popular for fast turnaround, while bank-based methods suit those who prefer traditional rails. We support multiple withdrawal options so you can choose what fits you best. Inside your account, you can review transaction history and keep a clear view of your finances. We also help protect accuracy by ensuring payment details are correct, supporting reliable delivery. Active players can access more comfortable limits, and as your status grows, conditions become even more flexible. If you have any questions, our support team will guide you through steps and help you pick the optimal method. We follow a careful processing approach so your funds stay protected at every stage. The result is straightforward: request, confirm if needed, and receive your payout through your chosen option.\n\n<\/p>\n<br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank cards: a familiar option for everyday use.\n\n<\/li>\n            <li>• \nBank transfer: a classic route for bank-first players.\n\n<\/li>\n            <li>• \nE-wallets: fast handling and easy balance management.\n\n<\/li>\n            <li>• \nCryptocurrency: a modern option for speed and flexibility.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout speed & processing timeframes\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRequest processing: typically within a few hours up to 24 hours after checks.\n\n<\/li>\n            <li>• \nE-wallets\/crypto: often the same day or within 24 hours after processing.\n\n<\/li>\n            <li>• \nCards: commonly 1–3 business days after processing.\n\n<\/li>\n            <li>• \nTransfers: commonly 2–5 business days after processing.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nStandard limits: comfortable per-transaction and daily ranges for stability.\n\n<\/li>\n            <li>• \nIncreased limits: unlocked as activity and status grow.\n\n<\/li>\n            <li>• \nHigh-roller tiers: expanded conditions for larger and more frequent payouts.\n\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Do slots offer a demo mode?",
+                            "answer": "Many slot titles include a preview mode so you can learn features and mechanics before playing with real stakes.\n\n\n"
+                        },
+                        {
+                            "title": "Can I switch between casino and sportsbook in one profile?",
+                            "answer": "Yes—one account covers everything: balance, bonuses, and transaction history in one place, with instant section switching.\n\n\n"
+                        },
+                        {
+                            "title": "How does live casino work and what do I need?",
+                            "answer": "Live games stream in real time from studio tables—stable internet is all you need to place bets and watch outcomes live.\n\n\n"
+                        },
+                        {
+                            "title": "Which documents are accepted for verification?",
+                            "answer": "Typically, an ID document and proof of address; your account shows the exact list and image-quality requirements.\n\n\n"
+                        },
+                        {
+                            "title": "Are there beginner-friendly stake options?",
+                            "answer": "Yes—we support low minimums in many games and bets so you can start comfortably and move up to higher limits when ready.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
